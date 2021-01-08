@@ -11,5 +11,6 @@ class Git
         // git checkout;
         // git branch;
         // git status;
+        // git merge;
     }
 }
