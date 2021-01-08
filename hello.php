@@ -1,6 +1,6 @@
 <?php
 
-class Git
+class Git_test
 {
     public static function git()
     {
@@ -11,5 +11,6 @@ class Git
         // git checkout;
         // git branch;
         // git status;
+        // git merge;
     }
 }
